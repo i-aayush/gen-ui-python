@@ -4,7 +4,7 @@
 
 ## Overview
 
-This application aims to provide a template for building generative UI applications with LangChain Python.
+This application aims to provide a template for building generative UI applications with LangChain Python .
 It comes pre-built with a few UI features which you can use to play about with gen ui. The UI components are built using [Shadcn](https://ui.shadcn.com/).
 
 ## Getting Started
